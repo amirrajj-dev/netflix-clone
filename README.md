@@ -119,7 +119,7 @@ and thats it ! open http://localhost:5000 and see the project⚡
 
 ## ⚠️ Warning 
 
-if you cant see the movies or tv shows its probably beacuse you need to use a high speed vpn so turn on your vpn and reload the page and if its needed be a little  patient for me🥺😉🫂 
+if you cant see the movies or tv shows (or you see a shimmer or skeleton for theit cover) its probably beacuse you need to use a high speed vpn so turn on your vpn and reload the page and if its needed be a little  patient for me🥺😉🫂 
 
 # End🔚
 
